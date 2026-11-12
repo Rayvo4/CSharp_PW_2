@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PolynomialDemo/PolynomialDemo.csproj" />
+  <Project Path="PolynomialLib/PolynomialLib.csproj" />
+</Solution>
